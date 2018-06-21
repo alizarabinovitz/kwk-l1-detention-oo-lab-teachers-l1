@@ -1,6 +1,6 @@
 #Code your detention class here
 class Detention
-  def initialize(location)
+  def location
     @location = location
   end
 end
